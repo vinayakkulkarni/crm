@@ -7,7 +7,7 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "jquery": "^3.1.0",
-    "materialize-css": "*",
-    "lodash": "^4.16.2"
+    "lodash": "^4.16.2",
+    "materialize-css": "*"
   }
 }
