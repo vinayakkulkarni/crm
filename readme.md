@@ -1,6 +1,5 @@
 ## Laravel PHP Framework + Materialize CSS CRM
 
-[![Build Status](https://travis-ci.org/vinayakkulkarni/crm.svg)](https://travis-ci.org/vinayakkulkarni/crm/)
 [![StyleCI](https://styleci.io/repos/76187257/shield?style=flat)](https://styleci.io/repos/76187257)
 [![wercker status](https://app.wercker.com/status/96bce10bc728fd582318f90866132606/s/master "wercker status")](https://app.wercker.com/project/byKey/96bce10bc728fd582318f90866132606)
 [![Support](https://supporterhq.com/api/b/9ta2v0nem6g35roljw6pqkiop)](https://supporterhq.com/give/9ta2v0nem6g35roljw6pqkiop)
@@ -23,8 +22,8 @@
 ### Gulp/elixir setup
 - `npm install`
 - `npm install gulp`
-- `gulp materialize-build`
-- `gulp`
+- `gulp semantic-build`
+- `npm run dev` || `npm run watch`
 
 ## Contribution Guide
 Clone this repo and create a new local branch from staging branch. Make changes and send pull request to `staging`. After PR is accepted you can delete your local branch.
