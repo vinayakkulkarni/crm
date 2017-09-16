@@ -1,0 +1,3 @@
+- [ ] Clone this repo and create a new local branch (ex: add-x-feature) from staging branch. 
+- [ ] Make changes and send pull request to staging & not the master branch.
+- [ ] After PR is accepted you can delete your local branch.
