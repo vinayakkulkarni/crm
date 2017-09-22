@@ -22,9 +22,9 @@
   },
   "dependencies": {
     "nprogress": "^0.2.0",
-    "sweetalert2": "^6.8.0",
+    "sweetalert2": "^6.9.1",
     "vue-sticky": "^3.3.1",
     "vue-sweetalert": "^0.1.18",
-    "vue-toasted": "^1.1.17"
+    "vue-toasted": "^1.1.18"
   }
 }
